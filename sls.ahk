@@ -19,4 +19,4 @@ F5::
 return
 
 lastF5Press := 0
-debounceTime := 10000  ; Debounce time in milliseconds (10 seconds)
+debounceTime := 10000
